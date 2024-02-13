@@ -1,0 +1,41 @@
+commit 2854698d6ff5732bcb45ee6f20bf5163bd35cfcb
+Author: Tanner Bearden <tannerbeardens@gmail.com>
+Date:   Tue Feb 13 16:04:32 2024 -0700
+
+    Changed eye color to black
+
+commit c3ccbaa634daeec05115825f58cff8b6ecbfb274
+Author: sigggysigler <jacksigler93@gmail.com>
+Date:   Tue Feb 13 16:04:46 2024 -0700
+
+    Changed the mouth color to yelllow
+
+commit 54de0de9a50a915d90bf180aeb62578f091c8ad0
+Author: Tanner Bearden <tannerbeardens@gmail.com>
+Date:   Tue Feb 13 16:02:36 2024 -0700
+
+    Changes eye hieght from 20 to 10
+
+commit 15b91ed6f7442aadeaa77c4f6e8330e7927008d9
+Author: sigggysigler <jacksigler93@gmail.com>
+Date:   Tue Feb 13 16:02:12 2024 -0700
+
+    Changed the color of the eye
+
+commit 3f81920855507b65ee855c8217f97d121225b274
+Author: Tanner Bearden <tannerbeardens@gmail.com>
+Date:   Tue Feb 13 16:00:13 2024 -0700
+
+    Changed HEAD_DIMENSION to 600 from 100
+
+commit f949001309c08ca6e64bd0e276f14d387f3579f2
+Author: sigggysigler <jacksigler93@gmail.com>
+Date:   Tue Feb 13 15:57:01 2024 -0700
+
+    Changed the eye height
+
+commit 9a605cf421355f34ebeb5681f79837728de4b663
+Author: Tanner Bearden <tannerbeardens@gmail.com>
+Date:   Tue Feb 13 15:44:51 2024 -0700
+
+    Inital commit
